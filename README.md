@@ -13,7 +13,7 @@ Base de dados das listas das festas que as pessoas iam preenchendo no Google For
  
 
 A arquitetura do projeto pode ser demostrada como: 
-<img src="imgs/(Portfolio)Arquitetura_Google.png" align="center" height=auto width=80%/>
+<img src="imgs/Portfolio_Arquitetura_Google.png" align="center" height=auto width=80%/>
 
 O ETL dos dados é feito com Power Query.  
 
